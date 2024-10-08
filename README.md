@@ -4,6 +4,14 @@
 
 --------------------------------------------------------------------------------
 ## Live demos: https://pjbelo.github.io/mediapipe-js-demos/
+
+## Code + demo: https://codepen.io/Babich/pen/VwXrjvK
+
+## Live face: https://breathingcyborg.github.io/mediapipe-face-effects/
+
+## Live hand: https://nafisrayan.github.io/ThreeJS-Hand-Control-Panel/ 
+
+## Twitt: https://80.lv/articles/real-time-hand-tracking-in-the-browser-with-mediapipe/
 --------------------------------------------------------------------------------
 
 ## Live ML anywhere
@@ -13,6 +21,8 @@ ML solutions for live and streaming media.
 
 ## MediaPipe in Javascript Solutions
 https://google.github.io/mediapipe/getting_started/javascript
+
+## Deprecated https://github.com/naotaro0123/three-hand-tracking-practice https://github.com/yeemachine/kalidokit https://github.com/haruiz/RiggingJs
 
 Face Detection                                                                                                                 | Face Mesh                                                                                                       | Hands 
 :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------:
